@@ -1,5 +1,5 @@
 # hw3
-## https://docs.google.com/spreadsheets/d/1tfyggrc6soMTEZgnQlbnBTuqenKzLtmvfwyw9X1drLw/edit#gid=1675004967&fvid=643474021 
+## https://docs.google.com/spreadsheets/d/1tfyggrc6soMTEZgnQlbnBTuqenKzLtmvfwyw9X1drLw/edit#gid=1675004967
 ## https://docs.google.com/forms/d/1wG9yqMQDa4R5Cj2KJOjAUFZvs9FKBZYeLydCX0U3XMU/edit?usp=sharing
 
 ## step 2
